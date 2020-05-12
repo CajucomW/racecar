@@ -17,6 +17,4 @@ The code is written so it runs solely within the terminal.
     <code>x.fuel_remaining</code> should return <code>100</code>
 - setting an attribute to the <code>run_lap</code> method:
     <code>x.run_lap(360)</code>
-    should run the calculations within the method to adjust "fuel remaining" and "laps" attributes:
-    <code>x.fuel_remaining</code> should return <code>51.75</code>
-    <code>x.laps</code> should return <code>360</code>
+    should run the calculations with
